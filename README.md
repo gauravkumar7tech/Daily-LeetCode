@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0088-merge-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
