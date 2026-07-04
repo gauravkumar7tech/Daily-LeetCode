@@ -36,4 +36,16 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
