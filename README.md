@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Linked List
 |  |
@@ -74,4 +76,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
