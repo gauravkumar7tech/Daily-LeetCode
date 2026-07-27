@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0283-move-zeroes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 ## Two Pointers
@@ -32,11 +33,13 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
