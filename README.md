@@ -65,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
