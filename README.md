@@ -17,6 +17,7 @@
 | [0274-h-index](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0724-find-pivot-index](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0724-find-pivot-index) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
