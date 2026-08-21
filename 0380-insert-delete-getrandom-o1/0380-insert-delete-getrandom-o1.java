@@ -38,4 +38,3 @@ class RandomizedSet {
         return list.get(rand.nextInt(list.size()));
     }
 }
-
