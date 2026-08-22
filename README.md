@@ -67,6 +67,7 @@
 | [0189-rotate-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
