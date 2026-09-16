@@ -69,6 +69,7 @@
 | [0002-add-two-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -96,6 +97,7 @@
 | [0055-jump-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Counting Sort
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
