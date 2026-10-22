@@ -144,4 +144,20 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0097-interleaving-string) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
