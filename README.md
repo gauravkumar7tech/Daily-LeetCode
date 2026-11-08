@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0724-find-pivot-index](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0724-find-pivot-index) |
+| [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,12 +154,22 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
