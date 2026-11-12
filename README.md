@@ -26,6 +26,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
