@@ -27,6 +27,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
@@ -182,4 +183,28 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
