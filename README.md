@@ -42,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0283-move-zeroes) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Counting Sort
 |  |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0097-interleaving-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Tree
 |  |
 | ------- |
