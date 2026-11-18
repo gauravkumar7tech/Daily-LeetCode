@@ -162,6 +162,7 @@
 | ------- |
 | [0097-interleaving-string](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0097-interleaving-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Tree
 |  |
 | ------- |
