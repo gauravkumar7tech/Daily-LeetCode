@@ -26,6 +26,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -52,6 +53,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -71,6 +73,7 @@
 | [0055-jump-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Linked List
 |  |
 | ------- |
