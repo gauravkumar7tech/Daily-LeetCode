@@ -30,6 +30,7 @@
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -169,15 +171,18 @@
 | [0097-interleaving-string](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0097-interleaving-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
