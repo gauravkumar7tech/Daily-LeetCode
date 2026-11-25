@@ -36,6 +36,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
+| [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -237,4 +240,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
