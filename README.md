@@ -71,6 +71,7 @@
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
