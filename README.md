@@ -37,6 +37,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3934-smallest-unique-subarray](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,12 +61,14 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2974-minimum-number-game](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2974-minimum-number-game) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gauravkumar7tech/Daily-LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
